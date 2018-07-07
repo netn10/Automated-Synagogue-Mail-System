@@ -15,7 +15,7 @@ The software has only been released and is in beta version 1.0. It may contain b
 5. The "settings.json" file is intended to initialize the email from which the messages will be sent to the members, the email password and the time of sending:  
   A. The software only sends emails via Gmail's email address.  
   B. The password must be hidden in order to secure it. You can do this by right-click on the file and then "Hide File".  
-  C. The Sending time is written in "HH: MM" format.  
+  C. The sending time is written in "HH:MM" format.  
 
 For any question, comment, job offering (I'm a freelancer) or anything else, please contact me in the following ways:  
 
